@@ -1,0 +1,28 @@
+﻿Сборка начата 26.12.2022 16:48:08.
+Уровень детализации журнала: Normal.     1>Проект "D:\АиСД\лабы\лаб_9\лаб_9.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\лаб_9.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Source.cpp
+         Source.cpp
+     1>D:\АиСД\лабы\лаб_9\Source.cpp(39,20): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\АиСД\лабы\лаб_9\Source.cpp(81,20): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\АиСД\лабы\лаб_9\Debug\лаб_9.exe" /INCREMENTAL /ILK:"Debug\лаб_9.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\АиСД\лабы\лаб_9\Debug\лаб_9.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\АиСД\лабы\лаб_9\Debug\лаб_9.lib" /MACHINE:X86 Debug\Source.obj
+         лаб_9.vcxproj -> D:\АиСД\лабы\лаб_9\Debug\лаб_9.exe
+       FinalizeBuildStatus:
+         Файл "Debug\лаб_9.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\лаб_9.tlog\лаб_9.lastbuildstate".
+     1>Сборка проекта "D:\АиСД\лабы\лаб_9\лаб_9.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\АиСД\лабы\лаб_9\лаб_9.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\АиСД\лабы\лаб_9\Source.cpp(39,20): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\АиСД\лабы\лаб_9\Source.cpp(81,20): warning C4018: <: несоответствие типов со знаком и без знака
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:01.80

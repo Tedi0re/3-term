@@ -1,0 +1,26 @@
+﻿Сборка начата 26.09.2022 17:20:34.
+Уровень детализации журнала: Normal.     1>Проект "D:\АиСД\лаб_3\АиСД_лаб_3\АиСД_лаб_3.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\АиСД_лаб_3.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt main.cpp
+         main.cpp
+     1>D:\АиСД\лаб_3\АиСД_лаб_3\main.cpp(36): warning C4715: Convert: значение возвращается не при всех путях выполнения
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\АиСД\лаб_3\АиСД_лаб_3\Debug\АиСД_лаб_3.exe" /INCREMENTAL /ILK:"Debug\АиСД_лаб_3.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\АиСД\лаб_3\АиСД_лаб_3\Debug\АиСД_лаб_3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\АиСД\лаб_3\АиСД_лаб_3\Debug\АиСД_лаб_3.lib" /MACHINE:X86 Debug\main.obj
+         АиСД_лаб_3.vcxproj -> D:\АиСД\лаб_3\АиСД_лаб_3\Debug\АиСД_лаб_3.exe
+       FinalizeBuildStatus:
+         Файл "Debug\АиСД_лаб_3.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\АиСД_лаб_3.tlog\АиСД_лаб_3.lastbuildstate".
+     1>Сборка проекта "D:\АиСД\лаб_3\АиСД_лаб_3\АиСД_лаб_3.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\АиСД\лаб_3\АиСД_лаб_3\АиСД_лаб_3.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\АиСД\лаб_3\АиСД_лаб_3\main.cpp(36): warning C4715: Convert: значение возвращается не при всех путях выполнения
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:01.10

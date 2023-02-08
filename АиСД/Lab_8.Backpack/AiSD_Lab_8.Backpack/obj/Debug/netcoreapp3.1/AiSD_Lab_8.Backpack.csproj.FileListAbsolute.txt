@@ -1,0 +1,14 @@
+D:\АиСД\Lab_8.Backpack\AiSD_Lab_8.Backpack\bin\Debug\netcoreapp3.1\AiSD_Lab_8.Backpack.exe
+D:\АиСД\Lab_8.Backpack\AiSD_Lab_8.Backpack\bin\Debug\netcoreapp3.1\AiSD_Lab_8.Backpack.deps.json
+D:\АиСД\Lab_8.Backpack\AiSD_Lab_8.Backpack\bin\Debug\netcoreapp3.1\AiSD_Lab_8.Backpack.runtimeconfig.json
+D:\АиСД\Lab_8.Backpack\AiSD_Lab_8.Backpack\bin\Debug\netcoreapp3.1\AiSD_Lab_8.Backpack.runtimeconfig.dev.json
+D:\АиСД\Lab_8.Backpack\AiSD_Lab_8.Backpack\bin\Debug\netcoreapp3.1\AiSD_Lab_8.Backpack.dll
+D:\АиСД\Lab_8.Backpack\AiSD_Lab_8.Backpack\bin\Debug\netcoreapp3.1\AiSD_Lab_8.Backpack.pdb
+D:\АиСД\Lab_8.Backpack\AiSD_Lab_8.Backpack\obj\Debug\netcoreapp3.1\AiSD_Lab_8.Backpack.csproj.AssemblyReference.cache
+D:\АиСД\Lab_8.Backpack\AiSD_Lab_8.Backpack\obj\Debug\netcoreapp3.1\AiSD_Lab_8.Backpack.GeneratedMSBuildEditorConfig.editorconfig
+D:\АиСД\Lab_8.Backpack\AiSD_Lab_8.Backpack\obj\Debug\netcoreapp3.1\AiSD_Lab_8.Backpack.AssemblyInfoInputs.cache
+D:\АиСД\Lab_8.Backpack\AiSD_Lab_8.Backpack\obj\Debug\netcoreapp3.1\AiSD_Lab_8.Backpack.AssemblyInfo.cs
+D:\АиСД\Lab_8.Backpack\AiSD_Lab_8.Backpack\obj\Debug\netcoreapp3.1\AiSD_Lab_8.Backpack.csproj.CoreCompileInputs.cache
+D:\АиСД\Lab_8.Backpack\AiSD_Lab_8.Backpack\obj\Debug\netcoreapp3.1\AiSD_Lab_8.Backpack.dll
+D:\АиСД\Lab_8.Backpack\AiSD_Lab_8.Backpack\obj\Debug\netcoreapp3.1\AiSD_Lab_8.Backpack.pdb
+D:\АиСД\Lab_8.Backpack\AiSD_Lab_8.Backpack\obj\Debug\netcoreapp3.1\AiSD_Lab_8.Backpack.genruntimeconfig.cache

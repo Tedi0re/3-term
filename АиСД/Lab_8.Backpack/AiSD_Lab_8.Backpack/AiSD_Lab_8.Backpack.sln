@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AiSD_Lab_8.Backpack", "AiSD_Lab_8.Backpack.csproj", "{5E4C1A4A-035F-4420-BD87-6B6F9E27D39A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E4C1A4A-035F-4420-BD87-6B6F9E27D39A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E4C1A4A-035F-4420-BD87-6B6F9E27D39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E4C1A4A-035F-4420-BD87-6B6F9E27D39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E4C1A4A-035F-4420-BD87-6B6F9E27D39A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8A064A6-4CE2-4DC8-B514-5DFEA65C15B6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+D:\АиСД\Lab_6\AiSD_Lab_6\bin\Debug\netcoreapp3.1\AiSD_Lab_6.exe
+D:\АиСД\Lab_6\AiSD_Lab_6\bin\Debug\netcoreapp3.1\AiSD_Lab_6.deps.json
+D:\АиСД\Lab_6\AiSD_Lab_6\bin\Debug\netcoreapp3.1\AiSD_Lab_6.runtimeconfig.json
+D:\АиСД\Lab_6\AiSD_Lab_6\bin\Debug\netcoreapp3.1\AiSD_Lab_6.runtimeconfig.dev.json
+D:\АиСД\Lab_6\AiSD_Lab_6\bin\Debug\netcoreapp3.1\AiSD_Lab_6.dll
+D:\АиСД\Lab_6\AiSD_Lab_6\bin\Debug\netcoreapp3.1\AiSD_Lab_6.pdb
+D:\АиСД\Lab_6\AiSD_Lab_6\obj\Debug\netcoreapp3.1\AiSD_Lab_6.csproj.AssemblyReference.cache
+D:\АиСД\Lab_6\AiSD_Lab_6\obj\Debug\netcoreapp3.1\AiSD_Lab_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\АиСД\Lab_6\AiSD_Lab_6\obj\Debug\netcoreapp3.1\AiSD_Lab_6.AssemblyInfoInputs.cache
+D:\АиСД\Lab_6\AiSD_Lab_6\obj\Debug\netcoreapp3.1\AiSD_Lab_6.AssemblyInfo.cs
+D:\АиСД\Lab_6\AiSD_Lab_6\obj\Debug\netcoreapp3.1\AiSD_Lab_6.csproj.CoreCompileInputs.cache
+D:\АиСД\Lab_6\AiSD_Lab_6\obj\Debug\netcoreapp3.1\AiSD_Lab_6.dll
+D:\АиСД\Lab_6\AiSD_Lab_6\obj\Debug\netcoreapp3.1\AiSD_Lab_6.pdb
+D:\АиСД\Lab_6\AiSD_Lab_6\obj\Debug\netcoreapp3.1\AiSD_Lab_6.genruntimeconfig.cache
