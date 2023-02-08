@@ -1,0 +1,7 @@
+main{\точка входа в программу
+	type int a = 2;
+	type int b = lenght(a);
+	
+
+	
+} 

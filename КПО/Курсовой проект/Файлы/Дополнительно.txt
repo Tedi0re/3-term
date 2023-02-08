@@ -1,0 +1,22 @@
+Пишем примитивный и никому не нужный компилятор
+https://habr.com/ru/post/133780/
+
+Новые возможности С++17 и библиотеки STL
+https://oracle-patches.com/coding/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D1%81-17-%D0%B8-%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8-stl
+
+Стандарт C++20 обзор новых возможностей C++.
+
+  1.  Модули и краткая история C++.
+https://habr.com/ru/company/yandex_praktikum/blog/554874/
+  2.  Операция «космический корабль».
+https://habr.com/ru/company/yandex_praktikum/blog/555704/
+  3. Концепты.
+https://habr.com/ru/company/yandex_praktikum/blog/556816/
+  4.  Ranges.
+https://habr.com/ru/company/yandex_praktikum/blog/557890/
+  5.  Корутины.
+https://habr.com/ru/company/yandex_praktikum/blog/559642/
+  6.  Другие фичи ядра и стандартной библиотеки. Заключение.
+https://habr.com/ru/company/yandex_praktikum/blog/560904/
+
+

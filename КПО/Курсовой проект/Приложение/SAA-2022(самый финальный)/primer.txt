@@ -1,0 +1,11 @@
+main{\точка входа в программу
+	type int a = 2;
+	if a > 3
+	istrue[writeline 1;]
+	isfalse[writeline 0;]
+
+	while a >= 0
+	do[
+	writeline a;
+	]
+} 

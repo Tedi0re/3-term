@@ -1,0 +1,133 @@
+Microsoft (R) Macro Assembler Version 14.29.30145.0	    01/24/23 15:14:10
+..\SAA-2022\Debug\primer.txt.asm			     Page 1 - 1
+
+
+				.586
+				.model flat, stdcall
+				includelib libucrt.lib
+				includelib kernel32.lib
+				includelib "../LIB.lib"
+				ExitProcess PROTO:DWORD 
+				.stack 4096
+
+				 outnum PROTO : DWORD
+
+				 outstr PROTO : DWORD
+
+				 outstrline PROTO : DWORD
+
+				 outnumline PROTO : DWORD
+
+				 system_pause PROTO 
+
+				 random PROTO  
+
+				 lenght PROTO  : DWORD
+ 00000000			.const
+ 00000000 45 52 52 4F 52	 null_division BYTE 'ERROR: DIVISION BY ZERO', 0
+	   3A 20 44 49 56
+	   49 53 49 4F 4E
+	   20 42 59 20 5A
+	   45 52 4F 00
+ 00000018 45 52 52 4F 52	 overflow BYTE 'ERROR: VARIABLE OVERFLOW', 0 
+	   3A 20 56 41 52
+	   49 41 42 4C 45
+	   20 4F 56 45 52
+	   46 4C 4F 57 00
+ 00000031 0002				L1 SWORD 2
+ 00000000			.data
+ 00000000 0000				maina SWORD 0
+ 00000002 0000				mainb SWORD 0
+
+ 00000000			.code
+
+ 00000000			main PROC
+ 00000000  66| FF 35			push L1
+	   00000031 R
+ 00000007  66| 8F 05			pop maina
+	   00000000 R
+
+ 0000000E  68 00000000 E		push lenght
+ 00000013  66| FF 35			push maina
+	   00000000 R
+ 0000001A  66| 5A			pop dx
+ 0000001C  66| 5A			pop dx
+ 0000001E  66| FF 35			push maina
+	   00000000 R
+ 00000025  E8 00000000 E			call lenght
+ 0000002A  66| 50			push ax
+ 0000002C  66| 8F 05			pop mainb
+	   00000002 R
+
+ 00000033  E8 00000000 E	call system_pause
+ 00000038  6A 00		push 0
+ 0000003A  E8 00000000 E	call ExitProcess
+ 0000003F			SOMETHINGWRONG:
+ 0000003F  68 00000000 R	push offset null_division
+ 00000044  E8 00000000 E	call outstrline
+ 00000049  E8 00000000 E	call system_pause
+ 0000004E  6A FF		push -1
+ 00000050  E8 00000000 E	call ExitProcess
+ 00000055			EXIT_OVERFLOW:
+ 00000055  68 00000018 R	push offset overflow
+ 0000005A  E8 00000000 E	call outstrline
+ 0000005F  E8 00000000 E	call system_pause
+ 00000064  6A FE		push -2
+ 00000066  E8 00000000 E	call ExitProcess
+ 0000006B			main ENDP
+				end main
+Microsoft (R) Macro Assembler Version 14.29.30145.0	    01/24/23 15:14:10
+..\SAA-2022\Debug\primer.txt.asm			     Symbols 2 - 1
+
+
+
+
+Segments and Groups:
+
+                N a m e                 Size     Length   Align   Combine Class
+
+CONST  . . . . . . . . . . . . .	32 Bit	 00000033 Para	  Public  'CONST'	 ReadOnly
+FLAT . . . . . . . . . . . . . .	GROUP
+STACK  . . . . . . . . . . . . .	32 Bit	 00001000 Para	  Stack	  'STACK'	 
+_DATA  . . . . . . . . . . . . .	32 Bit	 00000004 Para	  Public  'DATA'	
+_TEXT  . . . . . . . . . . . . .	32 Bit	 0000006B Para	  Public  'CODE'	
+
+
+Procedures, parameters, and locals:
+
+                N a m e                 Type     Value    Attr
+
+ExitProcess  . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
+lenght . . . . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
+main . . . . . . . . . . . . . .	P Near	 00000000 _TEXT	Length= 0000006B Public STDCALL
+  SOMETHINGWRONG . . . . . . . .	L Near	 0000003F _TEXT	
+  EXIT_OVERFLOW  . . . . . . . .	L Near	 00000055 _TEXT	
+outnumline . . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
+outnum . . . . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
+outstrline . . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
+outstr . . . . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
+random . . . . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
+system_pause . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
+
+
+Symbols:
+
+                N a m e                 Type     Value    Attr
+
+@CodeSize  . . . . . . . . . . .	Number	 00000000h   
+@DataSize  . . . . . . . . . . .	Number	 00000000h   
+@Interface . . . . . . . . . . .	Number	 00000003h   
+@Model . . . . . . . . . . . . .	Number	 00000007h   
+@code  . . . . . . . . . . . . .	Text   	 _TEXT
+@data  . . . . . . . . . . . . .	Text   	 FLAT
+@fardata?  . . . . . . . . . . .	Text   	 FLAT
+@fardata . . . . . . . . . . . .	Text   	 FLAT
+@stack . . . . . . . . . . . . .	Text   	 FLAT
+L1 . . . . . . . . . . . . . . .	Word	 00000031 CONST	
+maina  . . . . . . . . . . . . .	Word	 00000000 _DATA	
+mainb  . . . . . . . . . . . . .	Word	 00000002 _DATA	
+null_division  . . . . . . . . .	Byte	 00000000 CONST	
+overflow . . . . . . . . . . . .	Byte	 00000018 CONST	
+
+	   0 Warnings
+	   0 Errors

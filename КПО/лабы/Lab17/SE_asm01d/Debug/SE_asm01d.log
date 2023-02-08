@@ -1,0 +1,22 @@
+﻿Сборка начата 16.12.2022 15:35:33.
+Уровень детализации журнала: Normal.     1>Проект "D:\КПО\лабы\Lab17\SE_asm01d\SE_asm01d.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "Debug\SE_asm01d.tlog\".
+       InitializeBuildStatus:
+         Создание "Debug\SE_asm01d.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"D:\КПО\лабы\Lab17\Debug\SE_asm01d.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt SE_asm01d.cpp
+         SE_asm01d.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\Lib.exe /OUT:"D:\КПО\лабы\Lab17\Debug\SE_asm01d.lib" /NOLOGO /MACHINE:X86 Debug\SE_asm01d.obj
+         SE_asm01d.vcxproj -> D:\КПО\лабы\Lab17\Debug\SE_asm01d.lib
+       FinalizeBuildStatus:
+         Файл "Debug\SE_asm01d.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_asm01d.tlog\SE_asm01d.lastbuildstate".
+     1>Сборка проекта "D:\КПО\лабы\Lab17\SE_asm01d\SE_asm01d.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.96

@@ -1,0 +1,31 @@
+﻿Сборка начата 04.11.2022 14:49:41.
+Уровень детализации журнала: Normal.     1>Проект "D:\КПО\лабы\asm4\asm4\asm4.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Serializer.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Serializer.cpp main.cpp
+         Serializer.cpp
+     1>D:\КПО\лабы\asm4\asm4\Serializer.h(26,1): warning C4267: =: преобразование из "size_t" в "unsigned char"; возможна потеря данных
+         main.cpp
+     1>D:\КПО\лабы\asm4\asm4\Serializer.h(26,1): warning C4267: =: преобразование из "size_t" в "unsigned char"; возможна потеря данных
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\КПО\лабы\asm4\Debug\Serializer.exe" /INCREMENTAL /ILK:"Debug\Serializer.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\КПО\лабы\asm4\Debug\Serializer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\КПО\лабы\asm4\Debug\Serializer.lib" /MACHINE:X86 Debug\main.obj
+         Debug\Serializer.obj
+         asm4.vcxproj -> D:\КПО\лабы\asm4\Debug\Serializer.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Serializer.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Serializer.tlog\Serializer.lastbuildstate".
+     1>Сборка проекта "D:\КПО\лабы\asm4\asm4\asm4.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\КПО\лабы\asm4\asm4\asm4.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\КПО\лабы\asm4\asm4\Serializer.h(26,1): warning C4267: =: преобразование из "size_t" в "unsigned char"; возможна потеря данных
+         D:\КПО\лабы\asm4\asm4\Serializer.h(26,1): warning C4267: =: преобразование из "size_t" в "unsigned char"; возможна потеря данных
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:02.60

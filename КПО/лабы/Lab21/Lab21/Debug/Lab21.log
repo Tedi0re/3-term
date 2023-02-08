@@ -1,0 +1,19 @@
+﻿Сборка начата 16.12.2022 15:15:12.
+Уровень детализации журнала: Normal.     1>Проект "D:\КПО\лабы\Lab21\Lab21\Lab21.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Lab21.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         Lab21.vcxproj -> D:\КПО\лабы\Lab21\Debug\Lab21.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab21.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab21.tlog\Lab21.lastbuildstate".
+     1>Сборка проекта "D:\КПО\лабы\Lab21\Lab21\Lab21.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.46

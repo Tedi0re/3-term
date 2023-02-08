@@ -1,0 +1,80 @@
+﻿Сборка начата 16.12.2022 12:38:57.
+Уровень детализации журнала: Normal.     1>Проект "D:\КПО\лабы\Lab22\Lab22\Lab22.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "D:\КПО\лабы\Lab22\Debug\".
+         Создание каталога "Debug\Lab22.tlog\".
+       InitializeBuildStatus:
+         Создание "Debug\Lab22.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Error.cpp FST.cpp GRB.cpp In.cpp IT.cpp Lab22.cpp LexAnalysis.cpp Log.cpp LT.cpp MFST.cpp Out.cpp Parm.cpp PolishNotation.cpp
+         Error.cpp
+         FST.cpp
+     1>D:\КПО\лабы\Lab22\Lab22\FST.cpp(62,37): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+         GRB.cpp
+         In.cpp
+         IT.cpp
+     1>D:\КПО\лабы\Lab22\Lab22\IT.cpp(79,36): warning C4267: =: преобразование из "size_t" в "unsigned char"; возможна потеря данных
+     1>D:\КПО\лабы\Lab22\Lab22\IT.cpp(99,36): warning C4267: =: преобразование из "size_t" в "unsigned char"; возможна потеря данных
+         Lab22.cpp
+     1>D:\КПО\лабы\Lab22\Lab22\Lab22.cpp(35,28): warning C4101: lt_position: неиспользованная локальная переменная
+         LexAnalysis.cpp
+     1>D:\КПО\лабы\Lab22\Lab22\LexAnalysis.cpp(80,21): warning C4305: =: усечение из "int" в "char"
+     1>D:\КПО\лабы\Lab22\Lab22\LexAnalysis.cpp(80,17): warning C4309: =: усечение константного значения
+         Log.cpp
+         LT.cpp
+         MFST.cpp
+     1>D:\КПО\лабы\Lab22\Lab22\MFST.cpp(236,68): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+         Out.cpp
+         Parm.cpp
+         PolishNotation.cpp
+     1>D:\КПО\лабы\Lab22\Lab22\PolishNotation.cpp(74,21): warning C4129: @: неизвестная escape-последовательность
+         Создание кода...
+     1>D:\КПО\лабы\Lab22\Lab22\PolishNotation.cpp(16): warning C4715: PolishNotation::Stack::push: значение возвращается не при всех путях выполнения
+     1>D:\КПО\лабы\Lab22\Lab22\PolishNotation.cpp(40): warning C4172: возвращение адреса локальной или временной переменной : temp
+     1>D:\КПО\лабы\Lab22\Lab22\PolishNotation.cpp(28): warning C4715: PolishNotation::Stack::push: значение возвращается не при всех путях выполнения
+     1>D:\КПО\лабы\Lab22\Lab22\LT.cpp(23): warning C4715: LT::LexTable::GetEntry: значение возвращается не при всех путях выполнения
+     1>D:\КПО\лабы\Lab22\Lab22\IT.cpp(160): warning C4715: IT::IdTable::GetEntry: значение возвращается не при всех путях выполнения
+     1>D:\КПО\лабы\Lab22\Lab22\IT.cpp(192): warning C4172: возвращение адреса локальной или временной переменной : buffer
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\КПО\лабы\Lab22\Debug\Lab22.exe" /INCREMENTAL /ILK:"Debug\Lab22.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\КПО\лабы\Lab22\Debug\Lab22.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\КПО\лабы\Lab22\Debug\Lab22.lib" /MACHINE:X86 Debug\Error.obj
+         Debug\FST.obj
+         Debug\GRB.obj
+         Debug\In.obj
+         Debug\IT.obj
+         Debug\Lab22.obj
+         Debug\LexAnalysis.obj
+         Debug\Log.obj
+         Debug\LT.obj
+         Debug\MFST.obj
+         Debug\Out.obj
+         Debug\Parm.obj
+         Debug\PolishNotation.obj
+         Lab22.vcxproj -> D:\КПО\лабы\Lab22\Debug\Lab22.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab22.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab22.tlog\Lab22.lastbuildstate".
+     1>Сборка проекта "D:\КПО\лабы\Lab22\Lab22\Lab22.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\КПО\лабы\Lab22\Lab22\Lab22.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\КПО\лабы\Lab22\Lab22\FST.cpp(62,37): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+         D:\КПО\лабы\Lab22\Lab22\IT.cpp(79,36): warning C4267: =: преобразование из "size_t" в "unsigned char"; возможна потеря данных
+         D:\КПО\лабы\Lab22\Lab22\IT.cpp(99,36): warning C4267: =: преобразование из "size_t" в "unsigned char"; возможна потеря данных
+         D:\КПО\лабы\Lab22\Lab22\Lab22.cpp(35,28): warning C4101: lt_position: неиспользованная локальная переменная
+         D:\КПО\лабы\Lab22\Lab22\LexAnalysis.cpp(80,21): warning C4305: =: усечение из "int" в "char"
+         D:\КПО\лабы\Lab22\Lab22\LexAnalysis.cpp(80,17): warning C4309: =: усечение константного значения
+         D:\КПО\лабы\Lab22\Lab22\MFST.cpp(236,68): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+         D:\КПО\лабы\Lab22\Lab22\PolishNotation.cpp(74,21): warning C4129: @: неизвестная escape-последовательность
+         D:\КПО\лабы\Lab22\Lab22\PolishNotation.cpp(16): warning C4715: PolishNotation::Stack::push: значение возвращается не при всех путях выполнения
+         D:\КПО\лабы\Lab22\Lab22\PolishNotation.cpp(40): warning C4172: возвращение адреса локальной или временной переменной : temp
+         D:\КПО\лабы\Lab22\Lab22\PolishNotation.cpp(28): warning C4715: PolishNotation::Stack::push: значение возвращается не при всех путях выполнения
+         D:\КПО\лабы\Lab22\Lab22\LT.cpp(23): warning C4715: LT::LexTable::GetEntry: значение возвращается не при всех путях выполнения
+         D:\КПО\лабы\Lab22\Lab22\IT.cpp(160): warning C4715: IT::IdTable::GetEntry: значение возвращается не при всех путях выполнения
+         D:\КПО\лабы\Lab22\Lab22\IT.cpp(192): warning C4172: возвращение адреса локальной или временной переменной : buffer
+
+    Предупреждений: 14
+    Ошибок: 0
+
+Прошло времени 00:00:10.56

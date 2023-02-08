@@ -1,0 +1,21 @@
+﻿Сборка начата 04.11.2022 14:52:24.
+Уровень детализации журнала: Normal.     1>Проект "D:\КПО\лабы\Lab17\SE_asm01a\SE_asm01a.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\SE_asm01a.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       _MASM:
+         Assembling SE_asm01a.asm...
+         cmd.exe /C "C:\Users\37529\AppData\Local\Temp\tmp4e6b6219795e4bd2927b57780dc768c0.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\SE_asm01a.obj" /W3 /errorReport:prompt  /TaSE_asm01a.asm
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\Lib.exe /OUT:"D:\КПО\лабы\Lab17\Debug\SE_asm01a.lib" /NOLOGO /MACHINE:X86 Debug\SE_asm01a.obj
+         SE_asm01a.vcxproj -> D:\КПО\лабы\Lab17\Debug\SE_asm01a.lib
+       FinalizeBuildStatus:
+         Файл "Debug\SE_asm01a.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_asm01a.tlog\SE_asm01a.lastbuildstate".
+     1>Сборка проекта "D:\КПО\лабы\Lab17\SE_asm01a\SE_asm01a.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.57

@@ -1,0 +1,21 @@
+﻿Сборка начата 16.10.2022 0:19:45.
+Уровень детализации журнала: Normal.     1>Проект "D:\КПО\лабы\лаб_1\ass_1\ass_1.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\ass_1.tlog\unsuccessfulbuild".
+       _MASM:
+         Assembling org.asm...
+         cmd.exe /C "C:\Users\37529\AppData\Local\Temp\tmpcfff05f854274d21b86410e2f2b2442c.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\org.obj" /Fl"Debug\ListingFile.txt" /W3 /errorReport:prompt  /Taorg.asm
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\КПО\лабы\лаб_1\ass_1\Debug\ass_1.exe" /INCREMENTAL /ILK:"Debug\ass_1.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\КПО\лабы\лаб_1\ass_1\Debug\ass_1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\КПО\лабы\лаб_1\ass_1\Debug\ass_1.lib" /MACHINE:X86 Debug\org.obj
+         ass_1.vcxproj -> D:\КПО\лабы\лаб_1\ass_1\Debug\ass_1.exe
+       FinalizeBuildStatus:
+         Файл "Debug\ass_1.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\ass_1.tlog\ass_1.lastbuildstate".
+     1>Сборка проекта "D:\КПО\лабы\лаб_1\ass_1\ass_1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.42
