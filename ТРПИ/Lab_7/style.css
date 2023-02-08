@@ -1,0 +1,29 @@
+#darts {
+    width: 150px;
+}
+
+#ball {
+    width: 40px;
+}
+
+#fordarts {
+    text-align: center;
+}
+
+#forshar {
+    text-align: center;
+    margin-top: 10%;
+}
+
+hr {
+    background-color: red;
+    position: absolute;
+
+    top: 300px;
+    width: 100%;
+    height: 1px;
+}
+
+body{
+    height: 2000px;
+}

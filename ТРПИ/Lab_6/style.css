@@ -1,0 +1,47 @@
+button {
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+  
+	cursor: pointer;
+  }
+
+.content {
+	text-align: right;
+	cursor: pointer;
+	margin: 20px;
+	display: inline-block;
+}
+
+.card {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	flex-wrap: wrap;
+}
+
+.card__item {
+	flex: 0 1 25%;
+
+	margin-bottom: 40px;
+}
+
+.card__item:nth-child(2n) {
+	background-color: rgba(0, 0, 0, 0.3);
+}
+
+.card__button {
+	background-color: rgb(0, 132, 255);
+	color: #fff;
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+
+	cursor: pointer;
+}
+
+.card-btn {
+	background-color: rgb(0, 132, 255);
+	color: #fff;
+}
