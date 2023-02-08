@@ -1,0 +1,14 @@
+D:\ООП\Lab_15.TPL\OOP_Lab_15.TPL\bin\Debug\netcoreapp3.1\OOP_Lab_15.TPL.exe
+D:\ООП\Lab_15.TPL\OOP_Lab_15.TPL\bin\Debug\netcoreapp3.1\OOP_Lab_15.TPL.deps.json
+D:\ООП\Lab_15.TPL\OOP_Lab_15.TPL\bin\Debug\netcoreapp3.1\OOP_Lab_15.TPL.runtimeconfig.json
+D:\ООП\Lab_15.TPL\OOP_Lab_15.TPL\bin\Debug\netcoreapp3.1\OOP_Lab_15.TPL.runtimeconfig.dev.json
+D:\ООП\Lab_15.TPL\OOP_Lab_15.TPL\bin\Debug\netcoreapp3.1\OOP_Lab_15.TPL.dll
+D:\ООП\Lab_15.TPL\OOP_Lab_15.TPL\bin\Debug\netcoreapp3.1\OOP_Lab_15.TPL.pdb
+D:\ООП\Lab_15.TPL\OOP_Lab_15.TPL\obj\Debug\netcoreapp3.1\OOP_Lab_15.TPL.csproj.AssemblyReference.cache
+D:\ООП\Lab_15.TPL\OOP_Lab_15.TPL\obj\Debug\netcoreapp3.1\OOP_Lab_15.TPL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Lab_15.TPL\OOP_Lab_15.TPL\obj\Debug\netcoreapp3.1\OOP_Lab_15.TPL.AssemblyInfoInputs.cache
+D:\ООП\Lab_15.TPL\OOP_Lab_15.TPL\obj\Debug\netcoreapp3.1\OOP_Lab_15.TPL.AssemblyInfo.cs
+D:\ООП\Lab_15.TPL\OOP_Lab_15.TPL\obj\Debug\netcoreapp3.1\OOP_Lab_15.TPL.csproj.CoreCompileInputs.cache
+D:\ООП\Lab_15.TPL\OOP_Lab_15.TPL\obj\Debug\netcoreapp3.1\OOP_Lab_15.TPL.dll
+D:\ООП\Lab_15.TPL\OOP_Lab_15.TPL\obj\Debug\netcoreapp3.1\OOP_Lab_15.TPL.pdb
+D:\ООП\Lab_15.TPL\OOP_Lab_15.TPL\obj\Debug\netcoreapp3.1\OOP_Lab_15.TPL.genruntimeconfig.cache

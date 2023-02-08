@@ -1,0 +1,11 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/clr/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+  <SOAP-ENV:Body>
+    <a1:Rose id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/ООП_лаб_4_5/ООП_лаб_4-5%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <Name id="ref-2">roze</Name>
+      <Color id="ref-3">красный</Color>
+      <Alive>true</Alive>
+      <Age>0</Age>
+      <NumberOfPetals>10</NumberOfPetals>
+    </a1:Rose>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

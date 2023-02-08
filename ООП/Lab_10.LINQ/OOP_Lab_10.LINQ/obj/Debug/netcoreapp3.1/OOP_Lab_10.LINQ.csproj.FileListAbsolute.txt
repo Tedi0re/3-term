@@ -1,0 +1,17 @@
+D:\ООП\Lab_10.LINQ\OOP_Lab_10.LINQ\bin\Debug\netcoreapp3.1\OOP_Lab_10.LINQ.exe
+D:\ООП\Lab_10.LINQ\OOP_Lab_10.LINQ\bin\Debug\netcoreapp3.1\OOP_Lab_10.LINQ.deps.json
+D:\ООП\Lab_10.LINQ\OOP_Lab_10.LINQ\bin\Debug\netcoreapp3.1\OOP_Lab_10.LINQ.runtimeconfig.json
+D:\ООП\Lab_10.LINQ\OOP_Lab_10.LINQ\bin\Debug\netcoreapp3.1\OOP_Lab_10.LINQ.runtimeconfig.dev.json
+D:\ООП\Lab_10.LINQ\OOP_Lab_10.LINQ\bin\Debug\netcoreapp3.1\OOP_Lab_10.LINQ.dll
+D:\ООП\Lab_10.LINQ\OOP_Lab_10.LINQ\bin\Debug\netcoreapp3.1\OOP_Lab_10.LINQ.pdb
+D:\ООП\Lab_10.LINQ\OOP_Lab_10.LINQ\obj\Debug\netcoreapp3.1\OOP_Lab_10.LINQ.csproj.AssemblyReference.cache
+D:\ООП\Lab_10.LINQ\OOP_Lab_10.LINQ\obj\Debug\netcoreapp3.1\OOP_Lab_10.LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Lab_10.LINQ\OOP_Lab_10.LINQ\obj\Debug\netcoreapp3.1\OOP_Lab_10.LINQ.AssemblyInfoInputs.cache
+D:\ООП\Lab_10.LINQ\OOP_Lab_10.LINQ\obj\Debug\netcoreapp3.1\OOP_Lab_10.LINQ.AssemblyInfo.cs
+D:\ООП\Lab_10.LINQ\OOP_Lab_10.LINQ\obj\Debug\netcoreapp3.1\OOP_Lab_10.LINQ.csproj.CoreCompileInputs.cache
+D:\ООП\Lab_10.LINQ\OOP_Lab_10.LINQ\obj\Debug\netcoreapp3.1\OOP_Lab_10.LINQ.dll
+D:\ООП\Lab_10.LINQ\OOP_Lab_10.LINQ\obj\Debug\netcoreapp3.1\OOP_Lab_10.LINQ.pdb
+D:\ООП\Lab_10.LINQ\OOP_Lab_10.LINQ\obj\Debug\netcoreapp3.1\OOP_Lab_10.LINQ.genruntimeconfig.cache
+D:\ООП\Lab_10.LINQ\OOP_Lab_10.LINQ\bin\Debug\netcoreapp3.1\лаб_2.dll
+D:\ООП\Lab_10.LINQ\OOP_Lab_10.LINQ\bin\Debug\netcoreapp3.1\лаб_2.pdb
+D:\ООП\Lab_10.LINQ\OOP_Lab_10.LINQ\obj\Debug\netcoreapp3.1\OOP_Lab_10.LINQ.csproj.CopyComplete

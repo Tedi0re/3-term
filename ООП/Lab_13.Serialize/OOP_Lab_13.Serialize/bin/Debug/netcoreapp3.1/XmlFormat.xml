@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Rose xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>rose</name>
+  <color>красный</color>
+  <alive>true</alive>
+  <age>0</age>
+  <numberOfPetals>10</numberOfPetals>
+  <cost>1</cost>
+  <Name>rose</Name>
+  <Color>красный</Color>
+  <Alive>true</Alive>
+  <Age>0</Age>
+  <NumberOfPetals>10</NumberOfPetals>
+  <Cost>1</Cost>
+</Rose>

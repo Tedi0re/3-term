@@ -1,0 +1,14 @@
+D:\ООП\Lab_14.Streams\OOP_Lad_14.Streams\bin\Debug\netcoreapp3.1\OOP_Lad_14.Streams.exe
+D:\ООП\Lab_14.Streams\OOP_Lad_14.Streams\bin\Debug\netcoreapp3.1\OOP_Lad_14.Streams.deps.json
+D:\ООП\Lab_14.Streams\OOP_Lad_14.Streams\bin\Debug\netcoreapp3.1\OOP_Lad_14.Streams.runtimeconfig.json
+D:\ООП\Lab_14.Streams\OOP_Lad_14.Streams\bin\Debug\netcoreapp3.1\OOP_Lad_14.Streams.runtimeconfig.dev.json
+D:\ООП\Lab_14.Streams\OOP_Lad_14.Streams\bin\Debug\netcoreapp3.1\OOP_Lad_14.Streams.dll
+D:\ООП\Lab_14.Streams\OOP_Lad_14.Streams\bin\Debug\netcoreapp3.1\OOP_Lad_14.Streams.pdb
+D:\ООП\Lab_14.Streams\OOP_Lad_14.Streams\obj\Debug\netcoreapp3.1\OOP_Lad_14.Streams.csproj.AssemblyReference.cache
+D:\ООП\Lab_14.Streams\OOP_Lad_14.Streams\obj\Debug\netcoreapp3.1\OOP_Lad_14.Streams.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Lab_14.Streams\OOP_Lad_14.Streams\obj\Debug\netcoreapp3.1\OOP_Lad_14.Streams.AssemblyInfoInputs.cache
+D:\ООП\Lab_14.Streams\OOP_Lad_14.Streams\obj\Debug\netcoreapp3.1\OOP_Lad_14.Streams.AssemblyInfo.cs
+D:\ООП\Lab_14.Streams\OOP_Lad_14.Streams\obj\Debug\netcoreapp3.1\OOP_Lad_14.Streams.csproj.CoreCompileInputs.cache
+D:\ООП\Lab_14.Streams\OOP_Lad_14.Streams\obj\Debug\netcoreapp3.1\OOP_Lad_14.Streams.dll
+D:\ООП\Lab_14.Streams\OOP_Lad_14.Streams\obj\Debug\netcoreapp3.1\OOP_Lad_14.Streams.pdb
+D:\ООП\Lab_14.Streams\OOP_Lad_14.Streams\obj\Debug\netcoreapp3.1\OOP_Lad_14.Streams.genruntimeconfig.cache

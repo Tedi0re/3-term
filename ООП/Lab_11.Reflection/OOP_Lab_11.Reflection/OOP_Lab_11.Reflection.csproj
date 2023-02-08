@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="лаб_2">
+      <HintPath>..\..\лаб_2\лаб_2\obj\Debug\netcoreapp3.1\лаб_2.dll</HintPath>
+    </Reference>
+    <Reference Include="ООП_лаб_4-5">
+      <HintPath>..\..\лаб_4-5\ООП_лаб_4-5\bin\Debug\netcoreapp3.1\ООП_лаб_4-5.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

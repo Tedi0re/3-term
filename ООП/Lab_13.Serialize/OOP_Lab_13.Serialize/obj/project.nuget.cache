@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G88IlXEMqJrnZNASuw2sYiUUsfFbLp1hBfLtGX2M8VIWkpx6bjGnIfSW1IiN0Ua5NokhzztTlsVdScvLiqHCvA==",
+  "success": true,
+  "projectFilePath": "D:\\ООП\\Lab_13.Serialize\\OOP_Lab_13.Serialize\\OOP_Lab_13.Serialize.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\37529\\.nuget\\packages\\soapformatter\\1.1.9\\soapformatter.1.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

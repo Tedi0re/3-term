@@ -1,0 +1,14 @@
+D:\ООП\Lab_9\OOP_Lab_9\bin\Debug\netcoreapp3.1\OOP_Lab_9.exe
+D:\ООП\Lab_9\OOP_Lab_9\bin\Debug\netcoreapp3.1\OOP_Lab_9.deps.json
+D:\ООП\Lab_9\OOP_Lab_9\bin\Debug\netcoreapp3.1\OOP_Lab_9.runtimeconfig.json
+D:\ООП\Lab_9\OOP_Lab_9\bin\Debug\netcoreapp3.1\OOP_Lab_9.runtimeconfig.dev.json
+D:\ООП\Lab_9\OOP_Lab_9\bin\Debug\netcoreapp3.1\OOP_Lab_9.dll
+D:\ООП\Lab_9\OOP_Lab_9\bin\Debug\netcoreapp3.1\OOP_Lab_9.pdb
+D:\ООП\Lab_9\OOP_Lab_9\obj\Debug\netcoreapp3.1\OOP_Lab_9.csproj.AssemblyReference.cache
+D:\ООП\Lab_9\OOP_Lab_9\obj\Debug\netcoreapp3.1\OOP_Lab_9.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Lab_9\OOP_Lab_9\obj\Debug\netcoreapp3.1\OOP_Lab_9.AssemblyInfoInputs.cache
+D:\ООП\Lab_9\OOP_Lab_9\obj\Debug\netcoreapp3.1\OOP_Lab_9.AssemblyInfo.cs
+D:\ООП\Lab_9\OOP_Lab_9\obj\Debug\netcoreapp3.1\OOP_Lab_9.csproj.CoreCompileInputs.cache
+D:\ООП\Lab_9\OOP_Lab_9\obj\Debug\netcoreapp3.1\OOP_Lab_9.dll
+D:\ООП\Lab_9\OOP_Lab_9\obj\Debug\netcoreapp3.1\OOP_Lab_9.pdb
+D:\ООП\Lab_9\OOP_Lab_9\obj\Debug\netcoreapp3.1\OOP_Lab_9.genruntimeconfig.cache

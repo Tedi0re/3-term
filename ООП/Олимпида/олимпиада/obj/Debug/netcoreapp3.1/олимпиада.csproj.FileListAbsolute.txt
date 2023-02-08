@@ -1,0 +1,14 @@
+D:\ООП\Олимпида\олимпиада\obj\Debug\netcoreapp3.1\олимпиада.csproj.AssemblyReference.cache
+D:\ООП\Олимпида\олимпиада\obj\Debug\netcoreapp3.1\олимпиада.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Олимпида\олимпиада\obj\Debug\netcoreapp3.1\олимпиада.AssemblyInfoInputs.cache
+D:\ООП\Олимпида\олимпиада\obj\Debug\netcoreapp3.1\олимпиада.AssemblyInfo.cs
+D:\ООП\Олимпида\олимпиада\obj\Debug\netcoreapp3.1\олимпиада.csproj.CoreCompileInputs.cache
+D:\ООП\Олимпида\олимпиада\bin\Debug\netcoreapp3.1\олимпиада.exe
+D:\ООП\Олимпида\олимпиада\bin\Debug\netcoreapp3.1\олимпиада.deps.json
+D:\ООП\Олимпида\олимпиада\bin\Debug\netcoreapp3.1\олимпиада.runtimeconfig.json
+D:\ООП\Олимпида\олимпиада\bin\Debug\netcoreapp3.1\олимпиада.runtimeconfig.dev.json
+D:\ООП\Олимпида\олимпиада\bin\Debug\netcoreapp3.1\олимпиада.dll
+D:\ООП\Олимпида\олимпиада\bin\Debug\netcoreapp3.1\олимпиада.pdb
+D:\ООП\Олимпида\олимпиада\obj\Debug\netcoreapp3.1\олимпиада.dll
+D:\ООП\Олимпида\олимпиада\obj\Debug\netcoreapp3.1\олимпиада.pdb
+D:\ООП\Олимпида\олимпиада\obj\Debug\netcoreapp3.1\олимпиада.genruntimeconfig.cache

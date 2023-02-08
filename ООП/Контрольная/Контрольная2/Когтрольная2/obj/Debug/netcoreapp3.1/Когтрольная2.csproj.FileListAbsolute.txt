@@ -1,0 +1,14 @@
+D:\ООП\Контрольная\Контрольная2\Когтрольная2\bin\Debug\netcoreapp3.1\Когтрольная2.exe
+D:\ООП\Контрольная\Контрольная2\Когтрольная2\bin\Debug\netcoreapp3.1\Когтрольная2.deps.json
+D:\ООП\Контрольная\Контрольная2\Когтрольная2\bin\Debug\netcoreapp3.1\Когтрольная2.runtimeconfig.json
+D:\ООП\Контрольная\Контрольная2\Когтрольная2\bin\Debug\netcoreapp3.1\Когтрольная2.runtimeconfig.dev.json
+D:\ООП\Контрольная\Контрольная2\Когтрольная2\bin\Debug\netcoreapp3.1\Когтрольная2.dll
+D:\ООП\Контрольная\Контрольная2\Когтрольная2\bin\Debug\netcoreapp3.1\Когтрольная2.pdb
+D:\ООП\Контрольная\Контрольная2\Когтрольная2\obj\Debug\netcoreapp3.1\Когтрольная2.csproj.AssemblyReference.cache
+D:\ООП\Контрольная\Контрольная2\Когтрольная2\obj\Debug\netcoreapp3.1\Когтрольная2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Контрольная\Контрольная2\Когтрольная2\obj\Debug\netcoreapp3.1\Когтрольная2.AssemblyInfoInputs.cache
+D:\ООП\Контрольная\Контрольная2\Когтрольная2\obj\Debug\netcoreapp3.1\Когтрольная2.AssemblyInfo.cs
+D:\ООП\Контрольная\Контрольная2\Когтрольная2\obj\Debug\netcoreapp3.1\Когтрольная2.csproj.CoreCompileInputs.cache
+D:\ООП\Контрольная\Контрольная2\Когтрольная2\obj\Debug\netcoreapp3.1\Когтрольная2.dll
+D:\ООП\Контрольная\Контрольная2\Когтрольная2\obj\Debug\netcoreapp3.1\Когтрольная2.pdb
+D:\ООП\Контрольная\Контрольная2\Когтрольная2\obj\Debug\netcoreapp3.1\Когтрольная2.genruntimeconfig.cache

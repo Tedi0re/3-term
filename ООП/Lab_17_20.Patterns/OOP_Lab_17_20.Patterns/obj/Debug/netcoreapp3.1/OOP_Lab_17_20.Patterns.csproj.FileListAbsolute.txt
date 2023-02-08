@@ -1,0 +1,14 @@
+D:\ООП\Lab_17_20.Patterns\OOP_Lab_17_20.Patterns\bin\Debug\netcoreapp3.1\OOP_Lab_17_20.Patterns.exe
+D:\ООП\Lab_17_20.Patterns\OOP_Lab_17_20.Patterns\bin\Debug\netcoreapp3.1\OOP_Lab_17_20.Patterns.deps.json
+D:\ООП\Lab_17_20.Patterns\OOP_Lab_17_20.Patterns\bin\Debug\netcoreapp3.1\OOP_Lab_17_20.Patterns.runtimeconfig.json
+D:\ООП\Lab_17_20.Patterns\OOP_Lab_17_20.Patterns\bin\Debug\netcoreapp3.1\OOP_Lab_17_20.Patterns.runtimeconfig.dev.json
+D:\ООП\Lab_17_20.Patterns\OOP_Lab_17_20.Patterns\bin\Debug\netcoreapp3.1\OOP_Lab_17_20.Patterns.dll
+D:\ООП\Lab_17_20.Patterns\OOP_Lab_17_20.Patterns\bin\Debug\netcoreapp3.1\OOP_Lab_17_20.Patterns.pdb
+D:\ООП\Lab_17_20.Patterns\OOP_Lab_17_20.Patterns\obj\Debug\netcoreapp3.1\OOP_Lab_17_20.Patterns.csproj.AssemblyReference.cache
+D:\ООП\Lab_17_20.Patterns\OOP_Lab_17_20.Patterns\obj\Debug\netcoreapp3.1\OOP_Lab_17_20.Patterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Lab_17_20.Patterns\OOP_Lab_17_20.Patterns\obj\Debug\netcoreapp3.1\OOP_Lab_17_20.Patterns.AssemblyInfoInputs.cache
+D:\ООП\Lab_17_20.Patterns\OOP_Lab_17_20.Patterns\obj\Debug\netcoreapp3.1\OOP_Lab_17_20.Patterns.AssemblyInfo.cs
+D:\ООП\Lab_17_20.Patterns\OOP_Lab_17_20.Patterns\obj\Debug\netcoreapp3.1\OOP_Lab_17_20.Patterns.csproj.CoreCompileInputs.cache
+D:\ООП\Lab_17_20.Patterns\OOP_Lab_17_20.Patterns\obj\Debug\netcoreapp3.1\OOP_Lab_17_20.Patterns.dll
+D:\ООП\Lab_17_20.Patterns\OOP_Lab_17_20.Patterns\obj\Debug\netcoreapp3.1\OOP_Lab_17_20.Patterns.pdb
+D:\ООП\Lab_17_20.Patterns\OOP_Lab_17_20.Patterns\obj\Debug\netcoreapp3.1\OOP_Lab_17_20.Patterns.genruntimeconfig.cache

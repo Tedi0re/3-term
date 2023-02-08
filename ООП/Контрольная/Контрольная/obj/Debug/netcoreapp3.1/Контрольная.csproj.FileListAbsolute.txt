@@ -1,0 +1,14 @@
+D:\ООП\Контрольная\Контрольная\bin\Debug\netcoreapp3.1\Контрольная.exe
+D:\ООП\Контрольная\Контрольная\bin\Debug\netcoreapp3.1\Контрольная.deps.json
+D:\ООП\Контрольная\Контрольная\bin\Debug\netcoreapp3.1\Контрольная.runtimeconfig.json
+D:\ООП\Контрольная\Контрольная\bin\Debug\netcoreapp3.1\Контрольная.runtimeconfig.dev.json
+D:\ООП\Контрольная\Контрольная\bin\Debug\netcoreapp3.1\Контрольная.dll
+D:\ООП\Контрольная\Контрольная\bin\Debug\netcoreapp3.1\Контрольная.pdb
+D:\ООП\Контрольная\Контрольная\obj\Debug\netcoreapp3.1\Контрольная.csproj.AssemblyReference.cache
+D:\ООП\Контрольная\Контрольная\obj\Debug\netcoreapp3.1\Контрольная.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Контрольная\Контрольная\obj\Debug\netcoreapp3.1\Контрольная.AssemblyInfoInputs.cache
+D:\ООП\Контрольная\Контрольная\obj\Debug\netcoreapp3.1\Контрольная.AssemblyInfo.cs
+D:\ООП\Контрольная\Контрольная\obj\Debug\netcoreapp3.1\Контрольная.csproj.CoreCompileInputs.cache
+D:\ООП\Контрольная\Контрольная\obj\Debug\netcoreapp3.1\Контрольная.dll
+D:\ООП\Контрольная\Контрольная\obj\Debug\netcoreapp3.1\Контрольная.pdb
+D:\ООП\Контрольная\Контрольная\obj\Debug\netcoreapp3.1\Контрольная.genruntimeconfig.cache

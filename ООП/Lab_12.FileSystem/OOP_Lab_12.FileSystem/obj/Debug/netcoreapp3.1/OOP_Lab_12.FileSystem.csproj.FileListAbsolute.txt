@@ -1,0 +1,14 @@
+D:\ООП\Lab_12.FileSystem\OOP_Lab_12.FileSystem\bin\Debug\netcoreapp3.1\OOP_Lab_12.FileSystem.exe
+D:\ООП\Lab_12.FileSystem\OOP_Lab_12.FileSystem\bin\Debug\netcoreapp3.1\OOP_Lab_12.FileSystem.deps.json
+D:\ООП\Lab_12.FileSystem\OOP_Lab_12.FileSystem\bin\Debug\netcoreapp3.1\OOP_Lab_12.FileSystem.runtimeconfig.json
+D:\ООП\Lab_12.FileSystem\OOP_Lab_12.FileSystem\bin\Debug\netcoreapp3.1\OOP_Lab_12.FileSystem.runtimeconfig.dev.json
+D:\ООП\Lab_12.FileSystem\OOP_Lab_12.FileSystem\bin\Debug\netcoreapp3.1\OOP_Lab_12.FileSystem.dll
+D:\ООП\Lab_12.FileSystem\OOP_Lab_12.FileSystem\bin\Debug\netcoreapp3.1\OOP_Lab_12.FileSystem.pdb
+D:\ООП\Lab_12.FileSystem\OOP_Lab_12.FileSystem\obj\Debug\netcoreapp3.1\OOP_Lab_12.FileSystem.csproj.AssemblyReference.cache
+D:\ООП\Lab_12.FileSystem\OOP_Lab_12.FileSystem\obj\Debug\netcoreapp3.1\OOP_Lab_12.FileSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Lab_12.FileSystem\OOP_Lab_12.FileSystem\obj\Debug\netcoreapp3.1\OOP_Lab_12.FileSystem.AssemblyInfoInputs.cache
+D:\ООП\Lab_12.FileSystem\OOP_Lab_12.FileSystem\obj\Debug\netcoreapp3.1\OOP_Lab_12.FileSystem.AssemblyInfo.cs
+D:\ООП\Lab_12.FileSystem\OOP_Lab_12.FileSystem\obj\Debug\netcoreapp3.1\OOP_Lab_12.FileSystem.csproj.CoreCompileInputs.cache
+D:\ООП\Lab_12.FileSystem\OOP_Lab_12.FileSystem\obj\Debug\netcoreapp3.1\OOP_Lab_12.FileSystem.dll
+D:\ООП\Lab_12.FileSystem\OOP_Lab_12.FileSystem\obj\Debug\netcoreapp3.1\OOP_Lab_12.FileSystem.pdb
+D:\ООП\Lab_12.FileSystem\OOP_Lab_12.FileSystem\obj\Debug\netcoreapp3.1\OOP_Lab_12.FileSystem.genruntimeconfig.cache

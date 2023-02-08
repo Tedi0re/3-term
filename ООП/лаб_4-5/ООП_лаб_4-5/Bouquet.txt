@@ -1,0 +1,11 @@
+Type:Rose
+Name:ромашка(роза)
+Color:белый
+Alive:true
+Age:1
+NumberOfPetals:3
+Cost:10
+Type:Gladiolus
+Name:не ромашка(гладиолус)
+Color:зеленый
+Cost:15

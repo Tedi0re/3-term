@@ -1,0 +1,21 @@
+Имя сборки: лаб_2.Customer, лаб_2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Всего открытых конструкторов: 1
+Void .ctor(System.String, System.String, System.String, System.String, Int32, Int32)
+Поля класса:
+Int32 Id
+System.String SecondName
+System.String FirstName
+System.String FatherName
+System.String Adress
+Int32 CardNumber
+Int32 CardBalance
+Свойства класса:
+Int32 id
+System.String secondName
+System.String firstName
+System.String fatherName
+System.String adress
+Int32 cardNumber
+Int32 cardBalance
+Реализованные интерфейсы:
+Все методы с типом параметра Int32:

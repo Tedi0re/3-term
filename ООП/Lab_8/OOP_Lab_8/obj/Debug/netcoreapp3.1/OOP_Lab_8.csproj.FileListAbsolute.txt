@@ -1,0 +1,14 @@
+D:\ООП\Lab_8\OOP_Lab_8\bin\Debug\netcoreapp3.1\OOP_Lab_8.exe
+D:\ООП\Lab_8\OOP_Lab_8\bin\Debug\netcoreapp3.1\OOP_Lab_8.deps.json
+D:\ООП\Lab_8\OOP_Lab_8\bin\Debug\netcoreapp3.1\OOP_Lab_8.runtimeconfig.json
+D:\ООП\Lab_8\OOP_Lab_8\bin\Debug\netcoreapp3.1\OOP_Lab_8.runtimeconfig.dev.json
+D:\ООП\Lab_8\OOP_Lab_8\bin\Debug\netcoreapp3.1\OOP_Lab_8.dll
+D:\ООП\Lab_8\OOP_Lab_8\bin\Debug\netcoreapp3.1\OOP_Lab_8.pdb
+D:\ООП\Lab_8\OOP_Lab_8\obj\Debug\netcoreapp3.1\OOP_Lab_8.csproj.AssemblyReference.cache
+D:\ООП\Lab_8\OOP_Lab_8\obj\Debug\netcoreapp3.1\OOP_Lab_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Lab_8\OOP_Lab_8\obj\Debug\netcoreapp3.1\OOP_Lab_8.AssemblyInfoInputs.cache
+D:\ООП\Lab_8\OOP_Lab_8\obj\Debug\netcoreapp3.1\OOP_Lab_8.AssemblyInfo.cs
+D:\ООП\Lab_8\OOP_Lab_8\obj\Debug\netcoreapp3.1\OOP_Lab_8.csproj.CoreCompileInputs.cache
+D:\ООП\Lab_8\OOP_Lab_8\obj\Debug\netcoreapp3.1\OOP_Lab_8.dll
+D:\ООП\Lab_8\OOP_Lab_8\obj\Debug\netcoreapp3.1\OOP_Lab_8.pdb
+D:\ООП\Lab_8\OOP_Lab_8\obj\Debug\netcoreapp3.1\OOP_Lab_8.genruntimeconfig.cache

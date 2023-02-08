@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ООП_лаб_4-5", "ООП_лаб_4-5.csproj", "{B87FCFC5-11A2-4D17-9974-98D97AFA023F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{05673C4C-0704-4013-9197-B3F57430B8E3}"
+	ProjectSection(SolutionItems) = preProject
+		bin\Debug\netcoreapp3.1\Bouquet.json = bin\Debug\netcoreapp3.1\Bouquet.json
+		Bouquet.txt = Bouquet.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B87FCFC5-11A2-4D17-9974-98D97AFA023F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87FCFC5-11A2-4D17-9974-98D97AFA023F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87FCFC5-11A2-4D17-9974-98D97AFA023F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87FCFC5-11A2-4D17-9974-98D97AFA023F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2225F10-914B-41B5-947D-5D1965F59CB5}
+	EndGlobalSection
+EndGlobal

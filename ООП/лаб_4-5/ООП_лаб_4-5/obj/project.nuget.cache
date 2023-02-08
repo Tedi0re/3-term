@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CEOGMfnUHNdSGn/8vTc+oCsRmiLvX1yUbzV2ISEdSutUzYiiF+x1fEH0mJT81SnPxY0b22XIj5goSt2XEmZomg==",
+  "success": true,
+  "projectFilePath": "D:\\ООП\\лаб_4-5\\ООП_лаб_4-5\\ООП_лаб_4-5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\37529\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

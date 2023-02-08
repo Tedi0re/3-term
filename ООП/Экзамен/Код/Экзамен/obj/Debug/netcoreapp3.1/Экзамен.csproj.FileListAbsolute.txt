@@ -1,0 +1,14 @@
+D:\ООП\Экзамен\Код\Экзамен\bin\Debug\netcoreapp3.1\Экзамен.exe
+D:\ООП\Экзамен\Код\Экзамен\bin\Debug\netcoreapp3.1\Экзамен.deps.json
+D:\ООП\Экзамен\Код\Экзамен\bin\Debug\netcoreapp3.1\Экзамен.runtimeconfig.json
+D:\ООП\Экзамен\Код\Экзамен\bin\Debug\netcoreapp3.1\Экзамен.runtimeconfig.dev.json
+D:\ООП\Экзамен\Код\Экзамен\bin\Debug\netcoreapp3.1\Экзамен.dll
+D:\ООП\Экзамен\Код\Экзамен\bin\Debug\netcoreapp3.1\Экзамен.pdb
+D:\ООП\Экзамен\Код\Экзамен\obj\Debug\netcoreapp3.1\Экзамен.csproj.AssemblyReference.cache
+D:\ООП\Экзамен\Код\Экзамен\obj\Debug\netcoreapp3.1\Экзамен.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Экзамен\Код\Экзамен\obj\Debug\netcoreapp3.1\Экзамен.AssemblyInfoInputs.cache
+D:\ООП\Экзамен\Код\Экзамен\obj\Debug\netcoreapp3.1\Экзамен.AssemblyInfo.cs
+D:\ООП\Экзамен\Код\Экзамен\obj\Debug\netcoreapp3.1\Экзамен.csproj.CoreCompileInputs.cache
+D:\ООП\Экзамен\Код\Экзамен\obj\Debug\netcoreapp3.1\Экзамен.dll
+D:\ООП\Экзамен\Код\Экзамен\obj\Debug\netcoreapp3.1\Экзамен.pdb
+D:\ООП\Экзамен\Код\Экзамен\obj\Debug\netcoreapp3.1\Экзамен.genruntimeconfig.cache

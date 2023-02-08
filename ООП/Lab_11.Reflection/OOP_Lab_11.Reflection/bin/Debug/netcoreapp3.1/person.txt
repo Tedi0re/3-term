@@ -1,0 +1,15 @@
+Имя сборки: OOP_Lab_11.Reflection.person, OOP_Lab_11.Reflection, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Всего открытых конструкторов: 3
+Void .ctor()
+Void .ctor(System.String)
+Void .ctor(System.String, Int32, Int32)
+Поля класса:
+System.String Name
+Int32 Age
+Int32 Money
+Свойства класса:
+Int32 money
+Реализованные интерфейсы:
+OOP_Lab_11.Reflection.IBirthDay
+Все методы с типом параметра Int32:
+Int32 numberParameter(Int32)

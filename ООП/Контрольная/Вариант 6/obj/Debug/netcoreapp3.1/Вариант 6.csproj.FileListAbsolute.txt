@@ -1,0 +1,14 @@
+D:\ООП\Контрольная\Вариант 6\bin\Debug\netcoreapp3.1\Вариант 6.exe
+D:\ООП\Контрольная\Вариант 6\bin\Debug\netcoreapp3.1\Вариант 6.deps.json
+D:\ООП\Контрольная\Вариант 6\bin\Debug\netcoreapp3.1\Вариант 6.runtimeconfig.json
+D:\ООП\Контрольная\Вариант 6\bin\Debug\netcoreapp3.1\Вариант 6.runtimeconfig.dev.json
+D:\ООП\Контрольная\Вариант 6\bin\Debug\netcoreapp3.1\Вариант 6.dll
+D:\ООП\Контрольная\Вариант 6\bin\Debug\netcoreapp3.1\Вариант 6.pdb
+D:\ООП\Контрольная\Вариант 6\obj\Debug\netcoreapp3.1\Вариант 6.csproj.AssemblyReference.cache
+D:\ООП\Контрольная\Вариант 6\obj\Debug\netcoreapp3.1\Вариант 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Контрольная\Вариант 6\obj\Debug\netcoreapp3.1\Вариант 6.AssemblyInfoInputs.cache
+D:\ООП\Контрольная\Вариант 6\obj\Debug\netcoreapp3.1\Вариант 6.AssemblyInfo.cs
+D:\ООП\Контрольная\Вариант 6\obj\Debug\netcoreapp3.1\Вариант 6.csproj.CoreCompileInputs.cache
+D:\ООП\Контрольная\Вариант 6\obj\Debug\netcoreapp3.1\Вариант 6.dll
+D:\ООП\Контрольная\Вариант 6\obj\Debug\netcoreapp3.1\Вариант 6.pdb
+D:\ООП\Контрольная\Вариант 6\obj\Debug\netcoreapp3.1\Вариант 6.genruntimeconfig.cache

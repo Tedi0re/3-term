@@ -1,0 +1,16 @@
+D:\ООП\лаб_4-5\ООП_лаб_4-5\bin\Debug\netcoreapp3.1\ООП_лаб_4-5.exe
+D:\ООП\лаб_4-5\ООП_лаб_4-5\bin\Debug\netcoreapp3.1\ООП_лаб_4-5.deps.json
+D:\ООП\лаб_4-5\ООП_лаб_4-5\bin\Debug\netcoreapp3.1\ООП_лаб_4-5.runtimeconfig.json
+D:\ООП\лаб_4-5\ООП_лаб_4-5\bin\Debug\netcoreapp3.1\ООП_лаб_4-5.runtimeconfig.dev.json
+D:\ООП\лаб_4-5\ООП_лаб_4-5\bin\Debug\netcoreapp3.1\ООП_лаб_4-5.dll
+D:\ООП\лаб_4-5\ООП_лаб_4-5\bin\Debug\netcoreapp3.1\ООП_лаб_4-5.pdb
+D:\ООП\лаб_4-5\ООП_лаб_4-5\obj\Debug\netcoreapp3.1\ООП_лаб_4-5.csproj.AssemblyReference.cache
+D:\ООП\лаб_4-5\ООП_лаб_4-5\obj\Debug\netcoreapp3.1\ООП_лаб_4-5.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\лаб_4-5\ООП_лаб_4-5\obj\Debug\netcoreapp3.1\ООП_лаб_4-5.AssemblyInfoInputs.cache
+D:\ООП\лаб_4-5\ООП_лаб_4-5\obj\Debug\netcoreapp3.1\ООП_лаб_4-5.AssemblyInfo.cs
+D:\ООП\лаб_4-5\ООП_лаб_4-5\obj\Debug\netcoreapp3.1\ООП_лаб_4-5.csproj.CoreCompileInputs.cache
+D:\ООП\лаб_4-5\ООП_лаб_4-5\obj\Debug\netcoreapp3.1\ООП_лаб_4-5.dll
+D:\ООП\лаб_4-5\ООП_лаб_4-5\obj\Debug\netcoreapp3.1\ООП_лаб_4-5.pdb
+D:\ООП\лаб_4-5\ООП_лаб_4-5\obj\Debug\netcoreapp3.1\ООП_лаб_4-5.genruntimeconfig.cache
+D:\ООП\лаб_4-5\ООП_лаб_4-5\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ООП\лаб_4-5\ООП_лаб_4-5\obj\Debug\netcoreapp3.1\ООП_лаб_4-5.csproj.CopyComplete
